@@ -2,7 +2,7 @@ import { redirect } from "@remix-run/react";
 import { nanoid } from "nanoid";
 
 export const loader = () => {
-  const id = nanoid();
+  const id = ekI8Jy_OPK44-jCPd_4p1;
   return redirect(`/${id}`);
 };
 
