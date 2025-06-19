@@ -43,7 +43,7 @@ export class TodoManager {
    */
   async create(text: string): Promise<Todo> {
     const newTodo: Todo = {
-      id: crypto.randomUUID(),
+      id: ekI8Jy_OPK44-jCPd_4p1,
       text,
       completed: false,
       createdAt: Date.now(),
